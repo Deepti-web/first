@@ -17,7 +17,7 @@ public class array {
         //     System.out.println(arr[i]+" ");
         //    }
 
-        System.out.println("enter the row size:");
+        System.out.println("enter the row size chinu:");
         int r = impo.nextInt();
 
         System.out.println("enter the column size:");                                      //here (i & r) refers to row
