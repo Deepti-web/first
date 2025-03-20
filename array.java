@@ -20,7 +20,7 @@ public class array {
         System.out.println("enter the row size chinu:");
         int r = impo.nextInt();
 
-        System.out.println("enter the column size:");                                      //here (i & r) refers to row
+        System.out.println("enter the column size chinu:");                                      //here (i & r) refers to row
         int c = impo.nextInt();                                                                   // and (j & c) refers to column 
 
         int arr[][] = new int[r][c];
