@@ -1,4 +1,4 @@
-import java.util.Scanner;
+CLEARimport java.util.Scanner;
 public class array {
     public static void main(String[] args) {
         Scanner impo = new Scanner(System.in);
