@@ -12,7 +12,7 @@ public class array {
         //     System.out.println("enter the "+(i+1)+" number:");
         //             arr[i] = impo.nextInt();
         //   }
-        //    System.out.println("your entered number is");
+        //    System.out.printn("your entered number is");
         //    for(int i = 0;i<size;i++){
         //     System.out.println(arr[i]+" ");
         //    }
@@ -32,7 +32,7 @@ public class array {
                  arr[i][j] = impo.nextInt();
             }
         }
-         System.out.println("your entered element is:");
+         System.out.println("your entered element is chinu:");
          for(int i = 0;i < r;i++){
             for(int j = 0;j < c;j++){
                 System.out.print(arr[i][j]+" ");
